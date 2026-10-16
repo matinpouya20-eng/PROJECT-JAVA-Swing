@@ -1,0 +1,11 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Java / Maven build outputs
+out/
+target/
+*.class
+
+# Local serialized database (do not commit personal/runtime data)
+university-data*.ser
